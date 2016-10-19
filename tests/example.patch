@@ -1,0 +1,9 @@
+--- cli.js	2016-10-19 15:52:24 -00
++++ /somewhere/new/file.js	2016-10-19 16:35:11 -00
+@@ -16,3 +16,3 @@ Config parameters
+-	'Options',
+-	'  --all   Get all names instead of a random name'
+-])
++	'Options',
++	'  --all   Get all names instead of just a random name',
++])

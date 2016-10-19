@@ -1,0 +1,33 @@
+{
+  "name": "patch",
+  "version": "0.1.0",
+  "description": "A patch contains instructions on how to change a file",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:datatypesjs/patch"
+  },
+  "keywords": [
+    "patch",
+    "datatype",
+    "class"
+  ],
+  "author": "Adrian Sieber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datatypesjs/patch/issues"
+  },
+  "homepage": "https://github.com/datatypesjs/patch#readme",
+  "dependencies": {
+    "diff": "^3.0.1"
+  },
+  "devDependencies": {
+    "unexpected": "^10.18.1"
+  }
+}
